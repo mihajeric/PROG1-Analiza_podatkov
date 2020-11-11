@@ -1,5 +1,5 @@
 OLIMPIJSKE MEDALJE NA OLIMPIJSKIH IGRAH MODERNE DOBE
-___________________________________________________
+_____________________________________________________________________________________________
 
 Analiziral bom število medalj na poletnih in zimskih olimpijskih igrah moderne dobe.
 
@@ -23,3 +23,14 @@ Hipoteze:
 - Najuspešnejše države na igrah (zimske / letne / skupno).
 - Kakšna je povezava med najbolj uspešnimi športniki na OI in najbolj uspešnimi državami na OI.
 - Število nastopov posameznih držav, ki še niso osvojile nobene olimpijske medalje.
+_______________________________________________________________________________________________
+
+
+Dodane so tudi csv in python datoteke, potrebne za analizo nastavljenih hipotez. Datoteke so 
+ustrezno poimenovane in vsebujejo:
+
+- seznam držav brez medalj,
+- seznam skupnega števila medalj po državah
+- število udeležb držav na letni OI
+- število udeležb držav na zimskih OI
+- seznam večkratnih olimpijskih medalistov.
