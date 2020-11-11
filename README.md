@@ -31,6 +31,6 @@ ustrezno poimenovane in vsebujejo:
 
 - seznam držav brez medalj,
 - seznam skupnega števila medalj po državah
-- število udeležb držav na letni OI
+- število udeležb držav na letnih OI
 - število udeležb držav na zimskih OI
 - seznam večkratnih olimpijskih medalistov.
