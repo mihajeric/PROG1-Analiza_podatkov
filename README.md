@@ -29,7 +29,7 @@ ________________________________________________________________________________
 Dodane so tudi csv in python datoteke, potrebne za analizo nastavljenih hipotez. Datoteke so 
 ustrezno poimenovane in vsebujejo:
 
-- seznam držav brez medalj,
+- seznam držav brez medalj
 - seznam skupnega števila medalj po državah
 - število udeležb držav na letnih OI
 - število udeležb držav na zimskih OI
