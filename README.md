@@ -34,3 +34,6 @@ ustrezno poimenovane in vsebujejo:
 - število udeležb držav na letnih OI
 - število udeležb držav na zimskih OI
 - seznam večkratnih olimpijskih medalistov.
+
+
+Datoteka organizacija_podatkov popravi in reorganizira podatke in rezultate shrani v ustrezne csv datoteke, ki so shranjene v mapi csv_reorganizirane_datoteke.
