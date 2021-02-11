@@ -26,7 +26,7 @@ Hipoteze:
 _______________________________________________________________________________________________
 
 
-Dodane so tudi csv in python datoteke, potrebne za analizo nastavljenih hipotez. Datoteke so 
+Dodane so csv python datoteke, potrebne za analizo nastavljenih hipotez. Datoteke so 
 ustrezno poimenovane in vsebujejo:
 
 - seznam držav brez medalj
@@ -37,3 +37,5 @@ ustrezno poimenovane in vsebujejo:
 
 
 Datoteka organizacija_podatkov popravi in reorganizira podatke in rezultate shrani v ustrezne csv datoteke, ki so shranjene v mapi csv_reorganizirane_datoteke.
+
+Datoteka analiza sprejme podatke iz tabel in jih pretvori v ustrezne grafe.
