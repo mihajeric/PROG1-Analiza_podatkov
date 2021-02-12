@@ -38,4 +38,4 @@ ustrezno poimenovane in vsebujejo:
 
 Datoteka organizacija_podatkov popravi in reorganizira podatke in rezultate shrani v ustrezne csv datoteke, ki so shranjene v mapi csv_reorganizirane_datoteke.
 
-Jupyter notebook analiza.ipynb vsebuje analizo podatkov in izris grafov.
+Jupyter notebook `analiza.ipynb` vsebuje analizo podatkov in izris grafov.
